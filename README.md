@@ -1,18 +1,18 @@
-![logo](https://media.licdn.com/dms/image/C5616AQH39qtokHcnGA/profile-displaybackgroundimage-shrink_350_1400/0/1636647142584?e=1684972800&v=beta&t=5KDMOMJejPhRrwMrS6PokN4zsPIjCOXubuW9JNgOPT0)
+
 <h1 align="center">Hi 👋, I'm Abdul Wahab Amir</h1>
 <h3 align="center">A passionate Software Engineer from Pakistan</h3>
 <img align='right' alt='coding' width='400' src='https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif'>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=a-wahab-aamir&label=Profile%20views&color=0e75b6&style=flat" alt="a-wahab-aamir" /> </p>
 
-- 🔭 I’m currently Exploring **Backend Development**
+- 🔭 I’m currently Exploring **Backend Development (PHP MYSQL LARAVEL)**
 
-- 🌱 I’m currently learning **PHP LARAVEL**
+- 🌱 I’m currently learning **DOT NET CORE , C#**
 
 - 👨‍💻 All of my projects are available at [https://abdul0999.netlify.app/project_detail.html](https://abdul0999.netlify.app/project_detail.html)
 
 - 📝 I regularly write articles on [https://abdul0999.netlify.app/index.html#blog](https://abdul0999.netlify.app/index.html#blog)
 
-- 💬 Ask me about **HTML CSS JS BOOTSRAP J-QUERY SEO**
+- 💬 Ask me about **HTML CSS JS BOOTSRAP , TAILWIND CSS ,  J-QUERY SEO , UI UX (FIGMA , ADOBE XD , PENCIL)**
 
 - 📫 How to reach me **abdulwahabamir4@gmail.com**
 
