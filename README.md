@@ -12,9 +12,9 @@
 
 - 📝 I regularly write articles on [https://abdul0999.netlify.app/index.html#blog](https://abdul0999.netlify.app/index.html#blog)
 
-- 💬 Ask me about **HTML CSS JS BOOTSRAP , TAILWIND CSS ,  J-QUERY SEO , UI UX (FIGMA , ADOBE XD , PENCIL)**
+- 💬 Ask me about **HTML CSS JS BOOTSRAP , TAILWIND CSS ,  J-QUERY SEO , UI UX (FIGMA , ADOBE XD , PENCIL) , GIT , XML , JSON **
 
-- 📫 How to reach me **abdulwahabamir4@gmail.com**
+- 📫 How to reach me **abdulwahabamir4@gmail.com / awamir@students.uit.edu**
 
 - 📄 Know about my experiences [https://abdul0999.netlify.app/index.html#about](https://abdul0999.netlify.app/index.html#about)
 
