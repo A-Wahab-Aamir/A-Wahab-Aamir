@@ -1,6 +1,38 @@
 
 <h1 align="center">Hi 👋, I'm Abdul Wahab Amir</h1>
 <h3 align="center">A passionate Software Engineer from Pakistan</h3>
+
+<p align="center"> 
+  <samp>
+    <a href="https://www.google.com/search?q=abdul+wahab+amir">「 Google Me 」</a>
+   
+  </samp>
+</p>
+
+<p align="center">
+ <a href="https://abdul0999.netlify.app/" target="blank">
+  <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="abdul wahab amir" />
+ </a>
+ <a href="https://pk.linkedin.com/in/abdul-wahab-amir-155a96211" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="abdul wahab amir"/>
+ </a>
+ <!-- <a href="https://dev.to/alsiam" target="_blank">
+  <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="abdul wahab amir" />
+ </a> -->
+ <a href="https://twitter.com/abdulwahab42201" target="_blank">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+ </a>
+ <a href="https://instagram.com/instagram.com/abdul_wahab_amir.5836/" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="abdul wahab amir" />
+ </a> 
+ <a href="https://fb.com/abdulwahab.amir.5836" target="_blank">
+  <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="abdul wahab amir"  />
+  </a> 
+</p>
+<br />
+
+
+
 <img align='right' alt='coding' width='400' src='https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif'>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=a-wahab-aamir&label=Profile%20views&color=0e75b6&style=flat" alt="a-wahab-aamir" /> </p>
 
