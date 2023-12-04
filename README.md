@@ -19,7 +19,7 @@
  <!-- <a href="https://dev.to/alsiam" target="_blank">
   <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="abdul wahab amir" />
  </a> -->
- <a href="https://twitter.com/abdulwahab42201" target="_blank">
+ <a href="https://twitter.com/abdulwahab42201/" target="_blank">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
  </a>
  <a href="https://instagram.com/instagram.com/abdul_wahab_amir.5836/" target="_blank">
