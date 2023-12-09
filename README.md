@@ -28,6 +28,9 @@
  <a href="https://fb.com/abdulwahab.amir.5836" target="_blank">
   <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="abdul wahab amir"  />
   </a> 
+   <a href="https://www.youtube.com/@CodePulsePoint" target="_blank">
+  <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="abdul wahab amir"  />
+  </a> 
 </p>
 <br />
 
